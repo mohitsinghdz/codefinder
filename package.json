@@ -1,13 +1,13 @@
 {
   "name": "codefinder",
   "main": "./lib/codefinder",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "atom plugin that fetches code snippets from stack overflow",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "codefinder:find"
   },
-  "repository": "https://github.com/atom/codefinder",
+  "repository": "https://github.com/mohitsinghdz/codefinder",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
